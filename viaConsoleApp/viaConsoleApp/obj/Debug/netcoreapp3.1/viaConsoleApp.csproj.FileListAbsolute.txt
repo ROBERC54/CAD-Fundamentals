@@ -1,0 +1,11 @@
+C:\Users\trapa\source\repos\CAD-Fundamentals\viaConsoleApp\viaConsoleApp\bin\Debug\netcoreapp3.1\viaConsoleApp.exe
+C:\Users\trapa\source\repos\CAD-Fundamentals\viaConsoleApp\viaConsoleApp\bin\Debug\netcoreapp3.1\viaConsoleApp.deps.json
+C:\Users\trapa\source\repos\CAD-Fundamentals\viaConsoleApp\viaConsoleApp\bin\Debug\netcoreapp3.1\viaConsoleApp.runtimeconfig.json
+C:\Users\trapa\source\repos\CAD-Fundamentals\viaConsoleApp\viaConsoleApp\bin\Debug\netcoreapp3.1\viaConsoleApp.runtimeconfig.dev.json
+C:\Users\trapa\source\repos\CAD-Fundamentals\viaConsoleApp\viaConsoleApp\bin\Debug\netcoreapp3.1\viaConsoleApp.dll
+C:\Users\trapa\source\repos\CAD-Fundamentals\viaConsoleApp\viaConsoleApp\bin\Debug\netcoreapp3.1\viaConsoleApp.pdb
+C:\Users\trapa\source\repos\CAD-Fundamentals\viaConsoleApp\viaConsoleApp\obj\Debug\netcoreapp3.1\viaConsoleApp.csprojAssemblyReference.cache
+C:\Users\trapa\source\repos\CAD-Fundamentals\viaConsoleApp\viaConsoleApp\obj\Debug\netcoreapp3.1\viaConsoleApp.AssemblyInfoInputs.cache
+C:\Users\trapa\source\repos\CAD-Fundamentals\viaConsoleApp\viaConsoleApp\obj\Debug\netcoreapp3.1\viaConsoleApp.AssemblyInfo.cs
+C:\Users\trapa\source\repos\CAD-Fundamentals\viaConsoleApp\viaConsoleApp\obj\Debug\netcoreapp3.1\viaConsoleApp.dll
+C:\Users\trapa\source\repos\CAD-Fundamentals\viaConsoleApp\viaConsoleApp\obj\Debug\netcoreapp3.1\viaConsoleApp.pdb

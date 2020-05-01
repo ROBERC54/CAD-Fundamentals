@@ -10,7 +10,6 @@ C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebA
 C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\bin\Debug\netcoreapp3.1\CADFundamentalsWebAPI.Views.dll
 C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\bin\Debug\netcoreapp3.1\CADFundamentalsWebAPI.Views.pdb
 C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\CADFundamentalsWebAPI.csprojAssemblyReference.cache
-C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\CADFundamentalsWebAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\CADFundamentalsWebAPI.RazorAssemblyInfo.cache
 C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\CADFundamentalsWebAPI.RazorAssemblyInfo.cs
 C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\CADFundamentalsWebAPI.AssemblyInfoInputs.cache

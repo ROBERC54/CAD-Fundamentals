@@ -158,3 +158,8 @@ C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebA
 C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\CADFundamentalsWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\UberCategories\Create.cshtml.g.cs
+C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\UberCategories\Delete.cshtml.g.cs
+C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\UberCategories\Details.cshtml.g.cs
+C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\UberCategories\Edit.cshtml.g.cs
+C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\UberCategories\Index.cshtml.g.cs

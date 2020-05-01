@@ -8,6 +8,8 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using CADFundamentalsWebAPI.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace CADFundamentalsWebAPI
 {
@@ -24,6 +26,9 @@ namespace CADFundamentalsWebAPI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+
+            services.AddDbContext<CADFundamentalsWebAPIContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("CADFundamentalsWebAPIContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

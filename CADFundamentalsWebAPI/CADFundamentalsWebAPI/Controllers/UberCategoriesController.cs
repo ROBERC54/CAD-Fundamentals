@@ -45,7 +45,7 @@ namespace CADFundamentalsWebAPI.Controllers
 
         // GET: UberCategories/Create
         public IActionResult Create()
-        {
+        {   
             return View();
         }
 

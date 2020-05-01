@@ -24,6 +24,10 @@ namespace CADFundamentalsWebAPI.Controllers
         {
             return View(await _context.UberCategory.ToListAsync());
         }
+        public async Task<IActionResult> FullList()
+        {
+            return View(await _context.UberCategory.ToListAsync());
+        }
 
         // GET: UberCategories/Details/5
         public async Task<IActionResult> Details(int? id)

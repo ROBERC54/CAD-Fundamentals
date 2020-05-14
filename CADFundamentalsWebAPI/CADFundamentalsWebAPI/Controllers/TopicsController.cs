@@ -54,7 +54,7 @@ namespace CADFundamentalsWebAPI.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Title,LatestReleaseDate,UberCategoryId,Complexity,Price")] Topic topic)
+        public async Task<IActionResult> Create([Bind("Id,Title,LatestReleaseDate,UberCategory,UberCategoryId,Complexity,Price")] Topic topic)
         {
             if (ModelState.IsValid)
             {
@@ -86,7 +86,7 @@ namespace CADFundamentalsWebAPI.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,LatestReleaseDate,UberCategoryId,Complexity,Price")] Topic topic)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,LatestReleaseDate,UberCategory,UberCategoryId,Complexity,Price")] Topic topic)
         {
             if (id != topic.Id)
             {

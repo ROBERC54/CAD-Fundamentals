@@ -19,9 +19,9 @@ namespace CADFundamentalsWebAPI
             CreateHostBuilder(args).Build().Run();
         }*/
         //Remember: Force the app to initialize (call the methods in the Startup class) so the seed method runs. To force initialization, IIS Express must be stopped and restarted. You can do this with any of the following approaches:
-        //Right click the IIS Express system tray icon in the notification area and tap Exit or Stop Site
-        //If you were running VS in non-debug mode, press F5 to run in debug mode
-        //If you were running VS in debug mode, stop the debugger and press F5
+            //Right click the IIS Express system tray icon in the notification area and tap Exit or Stop Site
+            //If you were running VS in non-debug mode, press F5 to run in debug mode
+            //If you were running VS in debug mode, stop the debugger and press F5
         public static void Main(string[] args)
         {
             var host = CreateHostBuilder(args).Build();

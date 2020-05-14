@@ -164,3 +164,8 @@ C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebA
 C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\CADFundamentalsWebAPI.StaticWebAssets.xml
 C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\CADFundamentalsWebAPI.dll
 C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\CADFundamentalsWebAPI.pdb
+C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Topics\Create.cshtml.g.cs
+C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Topics\Delete.cshtml.g.cs
+C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Topics\Details.cshtml.g.cs
+C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Topics\Edit.cshtml.g.cs
+C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Topics\Index.cshtml.g.cs

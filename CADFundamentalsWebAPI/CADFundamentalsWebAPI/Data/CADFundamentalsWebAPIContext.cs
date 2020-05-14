@@ -14,5 +14,6 @@ namespace CADFundamentalsWebAPI.Data
         { 
         }
         public DbSet<UberCategory> UberCategory { get; set; }
+        public DbSet<Topic> Topic { get; set; }
     }
 }

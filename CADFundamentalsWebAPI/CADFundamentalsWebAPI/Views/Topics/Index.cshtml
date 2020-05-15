@@ -7,59 +7,28 @@
 <h1>Index</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="FullList">Full List</a>
 </p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Title)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.LatestReleaseDate)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.UberCategory)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.UberCategoryId)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Complexity)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Price)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Title)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.LatestReleaseDate)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.UberCategory)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.UberCategoryId)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Complexity)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Price)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-            </td>
-        </tr>
+<div class="navbar">
+</div>
+@foreach (var item in Model)
+{
+    <div class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3 navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".@item.Id" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    @Html.DisplayFor(modelItem => item.Title)
+                </button>
+            </div>
+            <div class="@item.Id collapse d-sm-inline-flex flex-sm-row-reverse">
+                <!--
+
+    <ul class="navbar-nav flex-grow-1">
+        (atsymbol)await Component.InvokeAsync("TopicNavCollapse", item)
+    </ul>
+    -->
+            </div>
+        </div>
+    </div>
 }
-    </tbody>
-</table>

@@ -148,6 +148,12 @@ C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebA
 C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Topics\Create.cshtml.g.cs
+C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Topics\Delete.cshtml.g.cs
+C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Topics\Details.cshtml.g.cs
+C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Topics\Edit.cshtml.g.cs
+C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Topics\Index.cshtml.g.cs
+C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\UberCategories\Components\TopicNavCollapse\Default.cshtml.g.cs
 C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\UberCategories\Create.cshtml.g.cs
 C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\UberCategories\Delete.cshtml.g.cs
 C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\UberCategories\Details.cshtml.g.cs
@@ -164,9 +170,4 @@ C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebA
 C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\CADFundamentalsWebAPI.StaticWebAssets.xml
 C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\CADFundamentalsWebAPI.dll
 C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\CADFundamentalsWebAPI.pdb
-C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Topics\Create.cshtml.g.cs
-C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Topics\Delete.cshtml.g.cs
-C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Topics\Details.cshtml.g.cs
-C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Topics\Edit.cshtml.g.cs
-C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Topics\Index.cshtml.g.cs
-C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\UberCategories\Components\TopicNavCollapse\Default.cshtml.g.cs
+C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Topics\FullList.cshtml.g.cs

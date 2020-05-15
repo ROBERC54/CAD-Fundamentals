@@ -3,11 +3,13 @@
     <div>
         @foreach (var topic in Model)
         {
-            <a class="btn btn-block btn-dark"
-               asp-action="Details"
-               asp-controller="UberCategories"
-               asp-route-id="@topic.UberCategoryId">
-                @topic.Title
-            </a>
+        <a class="btn btn-block btn-dark"
+           asp-action="Index"
+           asp-controller="Topics">
+            <!--asp-route-id="@topic.UberCategoryId"-->
+                            <!--How bizarre, it wouldn't allow me to place the comment inside the <A>, just outside in the middle of the <A></A>-->
+                            <!--If you do end up using it, you know it belongs in there-->
+            @topic.Title
+        </a>
         }
     </div>

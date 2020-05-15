@@ -1,0 +1,13 @@
+﻿@model IEnumerable<CADFundamentalsWebAPI.Models.Topic>
+
+    <div>
+        @foreach (var topic in Model)
+        {
+            <a class="btn btn-block btn-dark"
+               asp-action="Details"
+               asp-controller="UberCategories"
+               asp-route-id="@topic.UberCategoryId">
+                @topic.Title
+            </a>
+        }
+    </div>

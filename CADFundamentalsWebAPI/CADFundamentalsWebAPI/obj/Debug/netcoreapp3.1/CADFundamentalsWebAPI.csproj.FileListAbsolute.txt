@@ -169,3 +169,4 @@ C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebA
 C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Topics\Details.cshtml.g.cs
 C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Topics\Edit.cshtml.g.cs
 C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Topics\Index.cshtml.g.cs
+C:\Users\trapa\source\CAD-Fundamentals\CADFundamentalsWebAPI\CADFundamentalsWebAPI\obj\Debug\netcoreapp3.1\Razor\Views\UberCategories\Components\TopicNavCollapse\Default.cshtml.g.cs
